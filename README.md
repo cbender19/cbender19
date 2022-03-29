@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Connor Bender (@cbender19).
+- 👀 I’m interested in Back-end programming.
+- 🌱 I’m currently learning General Computer Science.
+- 📫 How to reach me connor.bender@gmail.com.
